@@ -1,3 +1,6 @@
+# imports system and sets the max length of a string
+import sys
+sys.set_int_max_str_digits(100000000)
 # variable declaration
 CurrentNum = 1
 PreviousNum = 0
