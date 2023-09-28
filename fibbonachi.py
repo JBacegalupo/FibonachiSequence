@@ -3,7 +3,7 @@ CurrentNum = 1
 PreviousNum = 0
 temp = 0
 counter = 1
-# asks the user what Fibonacci number they would like to work out and convert it to an integer
+# asks the user what Fibonacci number they would like to work out and convert it to an integer.
 print("please enter the Fibonacci number you would like to find")
 AmountOfTimes = input()
 AmountOfTimes = int(AmountOfTimes)
