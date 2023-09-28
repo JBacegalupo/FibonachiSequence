@@ -1,3 +1,6 @@
 # FibonachiSequence
 ***A PythonScript to work out any Fibonacci number***
-this is just a test lol
+
+
+next time im going add a more visual representation and a breakdown of how it works it out
+
